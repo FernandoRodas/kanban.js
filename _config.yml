@@ -1,0 +1,8 @@
+title: Kanban.js
+description: A javascript library for a simple html5 kanban board.
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-modernist
+
+gems:
+  - jekyll-mentions
