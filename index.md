@@ -33,10 +33,7 @@ It's really simple!
 ```
 
 ### Demo 
-http://fernandorodas.github.io/kanba.js/example
-
-### Authors and Contributors
-Now, I'm only one, but I hope people can help to make it a better library.
+http://fvrodas.github.io/kanban.js/example/index.html
 
 ### Support or Contact
-You can contact me at: fer.darklogic@gmail.com
+You can contact me at: fernandorodas@protonmail.com
